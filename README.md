@@ -1,5 +1,5 @@
 GroupName: BillGuard
-1. Kapeta D 222073659 Electronics & Computer
+1. Paulus D 222073659 Electronics & Computer
 2. KAMATI PA 224107631 Metallurgy
 3. Ndazapo SN 225065053 mining
 4. Hambabi MPN 225050374 Mining
